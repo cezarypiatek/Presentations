@@ -51,3 +51,4 @@
 - [Porozmawiajmy o IT](https://porozmawiajmyoit.pl)
 - [DotNetRocks](https://dotnetrocks.com/)
 - [DevCast](https://devenv.pl/devcast-podcast-it/)
+- [HanselMinutes](https://www.hanselminutes.com/)
