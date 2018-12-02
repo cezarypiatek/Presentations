@@ -44,3 +44,9 @@
 ## Code Kata
 - [15 Sites for Programming Exercises](https://programmingzen.com/15-sites-for-programming-exercises/)
 - [Code Wars](https://www.codewars.com)
+
+## Podcasty
+- [DevTalk](https://devtalk.pl/)
+- [Ostra Piła](https://ostrapila.pl/)
+- [Porozmawiajmy o IT](https://porozmawiajmyoit.pl)
+- [DotNetRocks](https://dotnetrocks.com/)
