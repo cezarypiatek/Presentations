@@ -50,3 +50,4 @@
 - [Ostra Piła](https://ostrapila.pl/)
 - [Porozmawiajmy o IT](https://porozmawiajmyoit.pl)
 - [DotNetRocks](https://dotnetrocks.com/)
+- [DevCast](https://devenv.pl/devcast-podcast-it/)
