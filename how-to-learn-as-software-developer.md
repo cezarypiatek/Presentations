@@ -52,3 +52,8 @@
 - [DotNetRocks](https://dotnetrocks.com/)
 - [DevCast](https://devenv.pl/devcast-podcast-it/)
 - [HanselMinutes](https://www.hanselminutes.com/)
+- [DevSession](https://devsession.pl/)
+- [Biznes w IT](https://www.spreaker.com/show/biznes-w-it)
+- [Pasja Informatyki](http://podcast.pasja-informatyki.pl/)
+- [Retrospektywa](https://www.retrospektywa.com/)
+- [Cafe Nerd](https://cafenerd.pl/)
