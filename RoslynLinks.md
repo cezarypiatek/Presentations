@@ -22,9 +22,11 @@
 - [AnyConstraint.Analyzer](https://github.com/6A/AnyConstraint.Analyzer)
 - [AsyncFixer](https://marketplace.visualstudio.com/items?itemName=SemihOkur.AsyncFixer)
 - [Roslyn Clr Heap Allocation Analyzer](https://github.com/Microsoft/RoslynClrHeapAllocationAnalyzer)
+- [Sharpen](https://github.com/sharpenrocks/Sharpen)
 
 ## Others
 - [How Microsoft rewrote its C# compiler in C# and made it open source](https://medium.com/microsoft-open-source-stories/how-microsoft-rewrote-its-c-compiler-in-c-and-made-it-open-source-4ebed5646f98)
 - [Source generators](https://github.com/dotnet/roslyn/blob/master/docs/features/generators.md)
 - [VSCode suport](https://github.com/OmniSharp/omnisharp-vscode/issues/43)
 - [Learn Async](http://www.learnasync.net/)
+- [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
