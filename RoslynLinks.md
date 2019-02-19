@@ -30,3 +30,4 @@
 - [VSCode suport](https://github.com/OmniSharp/omnisharp-vscode/issues/43)
 - [Learn Async](http://www.learnasync.net/)
 - [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+- [Custom Roslyn Tool for Static Code Analysis](https://is.muni.cz/th/f6oc3/masterThesis.pdf) - Master’s Thesis Bc. Zuzana Dankovčíková
